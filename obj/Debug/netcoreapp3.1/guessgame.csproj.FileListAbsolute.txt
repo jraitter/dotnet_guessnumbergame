@@ -1,0 +1,13 @@
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\bin\Debug\netcoreapp3.1\guessgame.exe
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\bin\Debug\netcoreapp3.1\guessgame.deps.json
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\bin\Debug\netcoreapp3.1\guessgame.runtimeconfig.json
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\bin\Debug\netcoreapp3.1\guessgame.runtimeconfig.dev.json
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\bin\Debug\netcoreapp3.1\guessgame.dll
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\bin\Debug\netcoreapp3.1\guessgame.pdb
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\obj\Debug\netcoreapp3.1\guessgame.csprojAssemblyReference.cache
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\obj\Debug\netcoreapp3.1\guessgame.csproj.CoreCompileInputs.cache
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\obj\Debug\netcoreapp3.1\guessgame.AssemblyInfoInputs.cache
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\obj\Debug\netcoreapp3.1\guessgame.AssemblyInfo.cs
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\obj\Debug\netcoreapp3.1\guessgame.dll
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\obj\Debug\netcoreapp3.1\guessgame.pdb
+C:\Users\James\source\codeworks\play\firstdotnet\guessgame\obj\Debug\netcoreapp3.1\guessgame.genruntimeconfig.cache
